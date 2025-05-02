@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi Everyone, I am Radhiva 👋
 
 <!--
 **Radhiva18/Radhiva18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning at **CS50x**
+- 🔭 I’m currently working any problem set of **CS50x**
+
+![Hi Everyone](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3dvNHF3YWptcGc4MmNzM21paHkxczY4M3g4Mml3dnp6NWx6YnR4NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pZipqyo1sqHDfJGtz/giphy.gif)
+
