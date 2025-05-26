@@ -1,5 +1,3 @@
-
-
 ![magicHeader](img/magicalHeader.png)
 
 <!--
